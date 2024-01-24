@@ -23,3 +23,6 @@ input[type="submit"]{
     color: var(--color--text)
 }
 
+.container a:hover{
+    cursor: pointer;
+}
