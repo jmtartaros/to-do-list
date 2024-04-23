@@ -9,7 +9,7 @@ class ListDate{
         <div class=" w-100 h-auto d-flex justify-content-between  align-items-center mt-1 px-2" id="div-2">
             <p class="w-100 h-auto  mb-0">${list.name}</p>
             <a>
-            <img class="imagen" src="../img/trash-fill.svg" name="delete"></img>
+            <img class="imagen" src="img/trash-fill.svg" name="delete">
             </a>
         </div>
         `;
